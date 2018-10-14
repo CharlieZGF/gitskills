@@ -1,2 +1,2 @@
-Creating a new branch is quick AND simple.
-fast forward mer
+Creating ann new branch is quick AND simple.
+
